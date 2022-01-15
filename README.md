@@ -1,4 +1,4 @@
-# Udacity Capstone - Casting Agency
+# Udacity Capstone Full Stack Nano Degree - Casting Agency
 
 ## Getting Started
 
